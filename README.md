@@ -23,7 +23,7 @@ The charts below illustrate the cost trade-offs. The shaded area represents the 
 The Take-or-Pay contract is financially sound. At 900 MMcf, the utility minimizes the risk of being forced into the expensive pipeline spot market during peak winter days.
 
 ### 2. Risks Faced by CaLNG
-CaLNG faces **Volume Risk** (if demand is lower than expected, lead to storage gluts) and **Market Price Risk** (if pipeline spot prices drop significantly below the contract price of $4.0).
+CaLNG faces **Volume Risk** (if demand is lower than expected, lead to storage gluts) and **Market Price Risk** (if pipeline spot prices drop significantly below the contract price of $7.5).
 
 ## Project Structure
 Below is the directory structure for this repository:
