@@ -30,7 +30,6 @@ Below is the directory structure for this repository:
 
 ```text
 .
-├── .gitignore                          # Files to be ignored by Git (e.g., .DS_Store)
 ├── README.md                           # Project documentation and summary
 ├── CaLNG_Optimization_Analysis.ipynb    # Main Python notebook with simulation code
 └── plots/                              # Folder containing generated visualizations
